@@ -1,0 +1,1 @@
+A demonstration of what OpenTok might look like in a stateless context. createStateless.php would generate a small iframe snippet for you to paste anywhere you like. The subscriber iframe does nothing until it's corresponding publisher iframe loads up. stateless.php is just the target for the stateless widgets. It's a slight modification of the HelloWorld tutorial on tokbox.com. 
